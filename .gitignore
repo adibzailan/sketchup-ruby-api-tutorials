@@ -1,1 +1,5 @@
 *.sublime-workspace
+
+# Local Documentation and Research files
+_DOCUMENTATION/
+CLAUDE.md
